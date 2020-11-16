@@ -1,3 +1,3 @@
 # Kakaotalk-Clone
 
-CSS got so much better1
+HTML & CSS are so much fun!
